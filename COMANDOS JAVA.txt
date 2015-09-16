@@ -9,5 +9,8 @@ Para rodar a aplicação em WEB
 gradlew jettyRunwar
 gradlew jettyRun
 
+Para compilar uma aplicação JAVA
+grandlew war
+
 Para configurar o projeto para importa-lo no eclipse
 gradlew eclipse
